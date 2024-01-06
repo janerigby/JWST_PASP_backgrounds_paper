@@ -1,0 +1,2 @@
+detector,filtername,observtn,wave,filtwidth,x,y,median,median_clipped,visit,effexptime,sb_mjsr,sb_mjsr_std,shortdet
+NIS,F200W,2,1.989,0.457,2048.0,2048.0,0.124842165,0.124078145,1.0,386.524,0.124842165,0.0008819088334654312,NIS

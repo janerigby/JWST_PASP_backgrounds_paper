@@ -1,0 +1,10 @@
+Re reduce all the backgrounds with the latest JWST pipeline (1.7.2)
+ and fairly recent ref files (latest on PUB anyway; not clear why OPS is ahead; may have to redo with later calib files, but seriously, I need to finish the analysis and write the damned paper already
+
+Make sure you did “conda activate jwst_pipe” before calling jupyter notebook
+
+field	    NIRCam   		NIRISS
+SMACS0723   RAN			RAN
+Abell2744   RAN			RAN
+NEP	    RAN			RAN
+Stray light RAN			RAN
